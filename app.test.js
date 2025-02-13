@@ -1,3 +1,6 @@
+// Developer: Roderick Bernardo
+// Purpose: Sample app for the Jenkins lab
+
 const request = require("supertest");
 const app = require("./app"); // Import the Express app
 

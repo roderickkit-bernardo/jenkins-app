@@ -1,3 +1,6 @@
+// Developer: Roderick Bernardo
+// Purpose: Sample app for the Jenkins lab
+
 const express = require("express");
 const app = express();
 
